@@ -101,7 +101,7 @@ body{
 }
 
 a {
-  color: #16A085;
+  color: #1EA08B;
 }
 
 a:hover, a:focus {
@@ -156,7 +156,7 @@ p {
 
 blockquote {
   padding: 15px 20px;
-  border-left: 5px solid #16A085;
+  border-left: 5px solid #1EA08B;
   background: #FAFAFA;
 }
 
@@ -168,13 +168,13 @@ blockquote p {
 .navbar{
   margin: 0;
   border: none;
-  border-bottom: 2px solid #16A085;
+  border-bottom: 2px solid #1EA08B;
   border-radius: 0;
 }
 
 .navbar-inverse {
-  background-color: #1ABC9C;
-  border-color: #16A085;
+  background-color: #1EA08B;
+  border-color: #1B7F6A;
 }
 
 .navbar-inverse .navbar-brand{
@@ -199,30 +199,30 @@ blockquote p {
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
   color: #ffffff;
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 .navbar-inverse .navbar-toggle {
-  border-color: #16A085;
+  border-color: #1EA08B;
   outline: none;
 }
 
 .dropdown-menu{
-  background-color: #16A085;
+  background-color: #1EA08B;
   border: none;
   border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -456,7 +456,7 @@ div.list-posts ul li a:hover{
 
 .post-meta .fa{
   margin: 0 5px 0 15px;
-  color: #16A085;
+  color: #1EA08B;
 }
 
 .post-meta .fa.first{
@@ -501,7 +501,7 @@ div.list-posts ul li a:hover{
 }
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 /* tags */
@@ -522,7 +522,7 @@ div.list-posts ul li a:hover{
 }
 
 .tags a:hover{
-  background: #16A085;
+  background: #1EA08B;
 }
 
 /* Tabs */
@@ -589,7 +589,7 @@ div.list-posts ul li a:hover{
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
-  background-color: #16A085;
+  background-color: #1EA08B;
 }
 
 .btn-info{
@@ -828,7 +828,7 @@ img.monster{
 }
 
 .pricing-table .panel-default > .panel-heading{
-  background-color: #16A085;
+  background-color: #1EA08B;
   color: #FFF;
   border-radius: 0;
   -webkit-border-radius: 0;
